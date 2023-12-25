@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hesham Kamal </h1>
-<h3 align="center">Passionate Front End Developer with expertise in front-end technologies like HTML, CSS,JavaScript ,TypeScript and Angular +2.
+<h3 align="center">Passionate Flutter Developer with expertise in Apps like Andriod , ios, dart ,java ,flutter.
 Always eager to learn and take on new challenges in the tech world.</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=islam-ali&label=Profile%20views&color=0e75b6&style=flat" alt="islam-ali" /> </p>
@@ -8,13 +8,13 @@ Always eager to learn and take on new challenges in the tech world.</h3>
 
 - 💬 Ask me about **Front End Developer and related technologies**
 
-- 📫 How to reach me **islamali.saeed99@gmail.com**
+- 📫 How to reach me **gwassou6@gmail.com**
 
 - ⚡ Fun fact **Football fanatic, AL AHLY**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/osamasayed585/" target="_blank">
+  <a href="https://www.linkedin.com/in/Hesham Azab/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="50" height="30" alt="linkedin logo"  />
   </a>
 </p>
@@ -58,7 +58,7 @@ Always eager to learn and take on new challenges in the tech world.</h3>
 
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=islam-ali&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="islam-ali" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=islam-ali&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="hesham azab" />
 </div>
 
 <div align="center">
