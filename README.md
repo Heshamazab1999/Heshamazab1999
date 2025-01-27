@@ -6,7 +6,7 @@ Always eager to learn and take on new challenges in the tech world.</h3>
 
 - 🌱 I’m currently learning **node.js**
 
-- 💬 Ask me about **Front End Developer and related technologies**
+- 💬 Ask me about **Mobile Application Developer and related technologies**
 
 - 📫 How to reach me **gwassou6@gmail.com**
 
