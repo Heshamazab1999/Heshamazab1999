@@ -1,61 +1,66 @@
 <h1 align="center">Hi 👋, I'm Hesham Kamal </h1>
-<h3 align="center">Passionate Flutter Developer with expertise in Apps like Andriod , ios, dart ,java ,flutter.
-Always eager to learn and take on new challenges in the tech world.</h3>
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hesham-azab&label=Profile%20views&color=0e75b6&style=flat" alt="hesham-azab" /> </p>
 
-- 🌱 I’m currently learning **node.js**
+<h3 align="center">Senior Flutter Developer | 6+ Years Experience | Android & iOS Expert</h3>
 
-- 💬 Ask me about **Mobile Application Developer and related technologies**
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=hesham-azab&label=Profile%20views&color=0e75b6&style=flat" alt="hesham-azab" />
+</p>
 
-- 📫 How to reach me **gwassou6@gmail.com**
+<img align="right" alt="Coding" width="350" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-- ⚡ Fun fact **Football fanatic, AL AHLY**
+- 🚀 **Expertise**: Building scalable, high-performance cross-platform mobile applications using Clean Architecture.
+- 🏗️ **Architecture**: Proficient in MVVM, Clean Architecture, SOLID principles, and Modular design.
+- 🛠️ **State Management**: Expert in Bloc, GetX, Provider, and Cubit.
+- ☁️ **Backend & DevOps**: Deep experience with Firebase, REST APIs, CI/CD (Fastlane, CodeMagic), and App Store/Play Store management.
+- 🌱 I’m currently learning **Node.js** to expand into Full-stack development.
+- 💬 Ask me about **Mobile Architecture, Performance Optimization, and Flutter Best Practices**.
+- 📫 Reach me at: **gwassou6@gmail.com**
+- ⚡ Fun fact: **Football fanatic, AL AHLY 🦅**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/Hesham Azab/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="50" height="30" alt="linkedin logo"  />
+  <a href="https://www.linkedin.com/in/hesham-kamal-abd-elkader/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="50" height="30" alt="linkedin logo" />
   </a>
 </p>
 
+---
 
-###
+### 🛠 Languages and Tools:
 
-
-<hr>
-
-
-
-<h3 align="left">Languages and Tools:</h3>
+**Mobile & Frontend**
 <p align="left">
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-    <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-  <a href="https://www.typescriptlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="typescript" width="40" height="40"/> </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
-    <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" alt="angular" width="40" height="40"/> </a>
-  <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-  <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a>
-
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
+  <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a>
+  <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a>
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
+  <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a>
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-
 </p>
 
+**Tools & DevOps**
+<p align="left">
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
+  <a href="https://codemagic.io/" target="_blank" rel="noreferrer"> <img src="https://uploads-ssl.webflow.com/5e57929668a6f3387fa79247/5e57965158673379633e7284_codemagic-logo.svg" alt="codemagic" width="40" height="40"/> </a>
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
+</p>
 
+---
 
-###
+### 📱 Top Published Projects
 
+| Project | Description |
+| :--- | :--- |
+| **Mejwal** | Global Shopping Marketplace connecting users with products from Europe and Americas[cite: 1]. |
+| **Soom** | Car Marketplace with open auction systems and real-time messaging[cite: 1]. |
+| **ValueFit** | Health & Fitness platform featuring trainer discovery and nutrition tracking[cite: 1]. |
+| **4Jobs** | Smart recruitment platform for job seekers and employers in Kuwait[cite: 1]. |
+| **Alexander** | Comprehensive E-learning platform with interactive quizzes and progress tracking[cite: 1]. |
 
-<hr>
+---
 
-
-
+### 📊 Github Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hesham-azab&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="hesham azab" />
@@ -65,10 +70,6 @@ Always eager to learn and take on new challenges in the tech world.</h3>
   <img src="https://github-readme-stats.vercel.app/api?username=hesham-azab&show_icons=true&locale=en&theme=tokyonight" alt="hesham-azab" />
 </div>
 
-<div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=hesham-azab&theme=tokyonight" alt="hesham-azab" /></div>
-
-<div 
-  align="center"
-  href="https://stardev.io/developers/hesham-azab">
-<img alt="Check out hesham-azab&apos;s profile on stardev.io" src="https://stardev.io/developers/hesham-azab/badge/languages/country.svg" />
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hesham-azab&theme=tokyonight" alt="hesham-azab" />
 </div>
